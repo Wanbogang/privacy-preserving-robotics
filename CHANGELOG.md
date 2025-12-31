@@ -13,7 +13,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Additional use case demonstrations
 - Performance benchmarking suite
 
-## [0.1.0] - 2024-12-31
+## [0.1.0-beta] - 2024-12-31
+
+**Status**: Pre-release
+
+This is the initial public release demonstrating the framework's technical feasibility.
 
 ### Added
 - Initial framework documentation

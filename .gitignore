@@ -33,3 +33,8 @@ logs/
 # Temp
 *.tmp
 temp/
+
+# Coverage reports
+htmlcov/
+.coverage
+*.cover

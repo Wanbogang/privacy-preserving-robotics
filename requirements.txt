@@ -1,12 +1,11 @@
 # Core dependencies
 numpy>=1.21.0
 scipy>=1.7.0
+matplotlib>=3.5.0
+tabulate>=0.9.0
 
-# For demos
-matplotlib>=3.5.0  # For visualization
-tabulate>=0.9.0    # For pretty printing
-
-# Development
+# Development & Testing
 pytest>=7.0.0
+pytest-cov>=4.0.0
 black>=22.0.0
 flake8>=4.0.0

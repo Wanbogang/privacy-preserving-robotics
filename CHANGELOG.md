@@ -7,8 +7,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- Comprehensive unit test suite (47 tests, 100% passing)
+  - 20 tests for ephemeral identity management
+  - 27 tests for pattern memory system
+- GitHub Actions CI/CD workflow
+  - Automated testing on push and pull requests
+  - Multi-version Python testing (3.9, 3.10, 3.11)
+  - Coverage reporting
+- Test coverage: 53% ephemeral identity, 58% pattern memory
+- CI/CD badges in README
+
 ### Planned
-- Unit tests for all demo components
+- Unit tests for eldercare monitor
+- Improve coverage to 80%+
 - ROS2 integration examples
 - Additional use case demonstrations
 - Performance benchmarking suite
@@ -54,7 +66,7 @@ This is the initial public release demonstrating the framework's technical feasi
 
 ## Release Notes
 
-### Version 0.1.0 - Initial Public Release
+### Version 0.1.0-beta - Initial Public Release
 
 This release establishes the foundational framework for privacy-preserving home
 robotics. Key achievements:
@@ -74,6 +86,6 @@ demonstrations based on community feedback.
 
 ---
 
-[unreleased]: https://github.com/Wanbogang/privacy-preserving-robotics/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/Wanbogang/privacy-preserving-robotics/releases/tag/v0.1.0
+[unreleased]: https://github.com/Wanbogang/privacy-preserving-robotics/compare/v0.1.0-beta...HEAD
+[0.1.0-beta]: https://github.com/Wanbogang/privacy-preserving-robotics/releases/tag/v0.1.0-beta
 [0.0.1]: https://github.com/Wanbogang/privacy-preserving-robotics/releases/tag/v0.0.1

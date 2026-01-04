@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18090716.svg)](https://doi.org/10.5281/zenodo.18090716)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Tests](https://github.com/Wanbogang/privacy-preserving-robotics/workflows/Tests/badge.svg)](https://github.com/Wanbogang/privacy-preserving-robotics/actions)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
 **Helpful robots without surveillance. Functionality without compromising privacy.**
 
